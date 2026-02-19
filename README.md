@@ -6,7 +6,7 @@ A robust, **"reliability-first"** Python script designed to download large batch
 
 ## 🚀 Why This Exists
 
-Downloading over 1,000 high-res images (like the MainaBiya project) is surprisingly difficult. Browsers often hang, and official **"Download as Zip"** links frequently fail or time out.
+Downloading over 1,000 high-res images is surprisingly difficult. Browsers often hang, and official **"Download as Zip"** links frequently fail or time out.
 
 This script solves that by:
 
