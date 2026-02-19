@@ -96,6 +96,7 @@ def download_folder_contents(folder_id, local_dir):
         print(f"\n❌ Done with {len(failed_files)} errors. Run again to retry them.")
 
 if __name__ == '__main__':
-    TARGET_FOLDER_ID = '16Kgbyx_w0u2j-wwwRAxpCqsC0D2pENMB' 
-    OUTPUT_DIRECTORY = 'MainaBiya'
+    TARGET_FOLDER_ID = '<>' 
+    OUTPUT_DIRECTORY = '<>'
+
     download_folder_contents(TARGET_FOLDER_ID, OUTPUT_DIRECTORY)
